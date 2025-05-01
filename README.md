@@ -2,7 +2,7 @@ Shopkart - E-commerce app
 
 # Installation
 
-git clone https://github.com/your-username/react-ecommerce-frontend.git
+git clone https://github.com/madhankumar1192000/ecommerce-shopkart
 cd myshop
 npm install
 npm run dev
